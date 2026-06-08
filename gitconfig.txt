@@ -1,0 +1,4 @@
+git config --global user.name LucasSpricigo
+git config --global user.email lucasspricigo21@gmail.com
+
+npx create-expo-app@latest pokedex 
